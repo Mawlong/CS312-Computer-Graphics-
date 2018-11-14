@@ -1,0 +1,6 @@
+Inputs:
+xC: 500
+yC: 500
+Rx: 100
+Ry:30
+Thetha: 35
